@@ -38,5 +38,5 @@ stored then a query is made to update the database.
 
 ## Authors
 
-* **Henry Urena** - *Initial work* - [Constructor-hangman](https://github.com/RaMbo8315/constructor-hangman)
+* **Henry Urena** - *Bamazon-Store* - [Bamazon](https://github.com/RaMbo8315/bamazon)
 
