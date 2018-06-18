@@ -12,10 +12,10 @@ inventory, and add new inventory.
 
 ### How it works
 
-When the app is ran a connection to mySQL is made and a a function is called displaying 
+When the app is ran a connection to mySQL is made and a function is called displaying 
 the store utilizing the console.table npm package. Using the inquirer package the customer 
-is asked to input the item id of the product they would like to purchase and how much of the product
-of the product they like like. Once the order is completed the products quantity is updated in the 
+is asked to input the item id of the product they would like to purchase and how much
+of the product they would like. Once the order is completed the products quantity is updated in the 
 database. On the manager side when view products is selected a query is made to the database 
 and the store is displayed. View low inventory displays only the products whose quantity is lower than five.
 Add inventory will take in managers input to select an item and the quantity they would like to 
